@@ -23,6 +23,7 @@
 #define DHTPIN 2
 #define ledPin 16
 
+
 #define DHTTYPE DHT11
 //
 
